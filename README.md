@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=http://imgur.com/gallery/ah3o3JV/new title='TipThat Video Walkthrough' width='' alt='http://imgur.com/gallery/ah3o3JV/new' />
+<img src=http://i.imgur.com/ah3o3JV.gif title='TipThat Video Walkthrough' width='' alt='http://i.imgur.com/ah3o3JV.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
